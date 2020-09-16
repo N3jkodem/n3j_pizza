@@ -3,3 +3,5 @@ Hi, this script was written by n3j / N3jkodem. It's a simple job of a pizza prov
 Blip and marker locations are adapted to the interior: "drussalaspizza" all taskbars are "gen-taskbar" and notifications are "mythic_notify". 
 If you need help translating the script, write DM Discord: n3jkodem #6727
 
+YT SHOWCASE:
+https://www.youtube.com/watch?v=QMvQ3httxFI
